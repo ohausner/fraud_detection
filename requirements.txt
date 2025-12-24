@@ -1,0 +1,22 @@
+# Data Manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Notebook support for VS Code
+jupyter
+ipykernel
+
+# Kaggle dataset handling
+kagglehub
+
+# SHAP
+shap
